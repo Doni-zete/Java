@@ -38,4 +38,10 @@ public class Logicos {
     System.out.println("verificando numero...");
     return numero > 10;
   }
+
+  public static boolean verificaComFiltro(Integer numero){
+
+    return false;
+}
+
 }
