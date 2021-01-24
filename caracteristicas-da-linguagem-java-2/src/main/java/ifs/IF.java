@@ -4,7 +4,7 @@ public class IF {
 
   public static void main(String[] args) {
 
-    final var condicao = true;
+    final var condicao = false;
 
     if (condicao) {
       System.out.println("A condição é verdadeira");

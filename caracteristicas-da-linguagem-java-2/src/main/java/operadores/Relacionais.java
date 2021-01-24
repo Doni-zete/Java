@@ -4,7 +4,7 @@ public class Relacionais {
 
   public static void main(String[] args) {
 
-    final var numero = 4;
+    final var numero = 6;
 
     if (numero > 20) {
       System.out.println("O número é maior que 20");
