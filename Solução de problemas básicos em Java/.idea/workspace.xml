@@ -4,41 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="47a0d7d4-e936-429d-ab57-061072d85709" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Orientação a Objetos com Java/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Orientação a Objetos com Java/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Orientação a Objetos com Java/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Orientação a Objetos com Java/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Orientação a Objetos com Java/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Orientação a Objetos com Java/Orientação a Objetos com Java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Orientação a Objetos com Java/out/production/Orientação a Objetos com Java/Orientação a Objetos com Java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1- Exibindo Números Pares/.gradle/6.7/executionHistory/executionHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1- Exibindo Números Pares/.gradle/6.7/executionHistory/executionHistory.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1- Exibindo Números Pares/.gradle/6.7/fileChanges/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1- Exibindo Números Pares/.gradle/6.7/fileHashes/fileHashes.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1- Exibindo Números Pares/.gradle/6.7/fileHashes/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1- Exibindo Números Pares/.gradle/6.7/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1- Exibindo Números Pares/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1- Exibindo Números Pares/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1- Exibindo Números Pares/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1- Exibindo Números Pares/.gradle/checksums/checksums.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1- Exibindo Números Pares/.gradle/configuration-cache/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1- Exibindo Números Pares/.gradle/vcs-1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1- Exibindo Números Pares/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1- Exibindo Números Pares/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1- Exibindo Números Pares/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1- Exibindo Números Pares/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1- Exibindo Números Pares/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1- Exibindo Números Pares/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1- Exibindo Números Pares/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1- Exibindo Números Pares/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1- Exibindo Números Pares/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1- Exibindo Números Pares/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1- Exibindo Números Pares/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1- Exibindo Números Pares/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1- Exibindo Números Pares/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1- Exibindo Números Pares/src/main/java/1-Exibindo Números Pares/1-Exibindo Números Pares.java" afterDir="false" />
-    </list>
+    <list default="true" id="47a0d7d4-e936-429d-ab57-061072d85709" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
