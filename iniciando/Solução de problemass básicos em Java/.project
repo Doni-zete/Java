@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>caracteristicas-da-linguagem-java-2</name>
-	<comment>Project caracteristicas-da-linguagem-java-2 created by Buildship.</comment>
+	<name>Solução de problemass básicos em Java</name>
+	<comment>Project Solução de problemass básicos em Java created by Buildship.</comment>
 	<projects>
 	</projects>
 	<buildSpec>
@@ -22,7 +22,7 @@
 	</natures>
 	<filteredResources>
 		<filter>
-			<id>1629600255900</id>
+			<id>1629600255897</id>
 			<name></name>
 			<type>30</type>
 			<matcher>
