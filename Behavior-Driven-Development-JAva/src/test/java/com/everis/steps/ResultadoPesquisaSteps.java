@@ -11,5 +11,17 @@ public class ResultadoPesquisaSteps {
 		ResultadoPesquisaPage resultadoPesquisaPage = new ResultadoPesquisaPage();
 		resultadoPesquisaPage.adicionarProdutoAoCarrinho(nomeProduto);
 	}
+
+
+	@E("^acessa o produto  \"(.*)\"$")
+	public void acessarProduto(String nomeProduto){
+		ResultadoPesquisaPage resultadoPesquisaPage =new ResultadoPesquisaPage()
+		resultadoPesquisaPage.acessarProduto(nomeProduto);
+		
+		public void acessarProduto(String nomeProduto) {
+			
+			
+		}
 	
+}
 }
